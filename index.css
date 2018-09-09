@@ -5,13 +5,13 @@ body {
 }
 
 header {
-  background-color: blue;
+  background-color: ivory;
   height: 80px;
   width: 100%;
 }
 
 main {
-  background-color: ivory;
+  background-color: turquoise;
   width: 100%;
   height: 100%;
 }
