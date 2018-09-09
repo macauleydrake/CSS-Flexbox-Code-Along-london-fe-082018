@@ -4,7 +4,7 @@ body {
   padding: 0;
 }
 
-hßeader {
+header {
   background-color: blue;
   height: 10%;
   width: 100%;
@@ -17,7 +17,7 @@ main {
 }
 
 footer {
-  background-color: blue;
+  background-color: paleblue;
   height: 100%;
   width: 100%;
 }
